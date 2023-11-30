@@ -1,4 +1,4 @@
-FROM samxd7/fedora:38
+FROM colserra/light-encoder:libfdk-aac
 WORKDIR /bot
 
 #RUN dnf -qq -y upgrade \
