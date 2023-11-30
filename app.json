@@ -15,11 +15,11 @@
   "env": {
     "OWNER": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
-      "value": "5179011789"
+      "value": "1164918935"
     },
     "DATABASE_URL": {
       "description": "Keep this default",
-      "value": "",
+      "value": "mongodb+srv://cinehub4u:encode@encode.ffyf1tk.mongodb.net/?retryWrites=true&w=majority",
       "required": true
     },
     "BOT_TOKEN": {
@@ -49,7 +49,7 @@
     },
     "AUTH_USERS": {
       "description": "Allow only pre-defined users to use this bot as Sudo User. Separate with Space. Just for using Admin Commands.",
-      "value": "5179011789",
+      "value": "1164918935",
       "required": true
     }
   },
